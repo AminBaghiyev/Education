@@ -1,0 +1,17 @@
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\bin\Debug\net8.0\Education.DL.deps.json
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\bin\Debug\net8.0\Education.DL.runtimeconfig.json
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\bin\Debug\net8.0\Education.DL.dll
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\bin\Debug\net8.0\Education.DL.pdb
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\bin\Debug\net8.0\Education.Core.dll
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\bin\Debug\net8.0\Education.Core.pdb
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\obj\Debug\net8.0\Education.DL.csproj.AssemblyReference.cache
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\obj\Debug\net8.0\Education.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\obj\Debug\net8.0\Education.DL.AssemblyInfoInputs.cache
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\obj\Debug\net8.0\Education.DL.AssemblyInfo.cs
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\obj\Debug\net8.0\Education.DL.csproj.CoreCompileInputs.cache
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\obj\Debug\net8.0\Education.DL.csproj.CopyComplete
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\obj\Debug\net8.0\Education.DL.dll
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\obj\Debug\net8.0\refint\Education.DL.dll
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\obj\Debug\net8.0\Education.DL.pdb
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\obj\Debug\net8.0\Education.DL.genruntimeconfig.cache
+C:\Users\CLASSTIME\source\repos\Education\Education.DL\obj\Debug\net8.0\ref\Education.DL.dll
