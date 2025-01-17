@@ -60,9 +60,9 @@ public class NewsService : INewsService
     {
         News news = await GetByIdAsync(id);
 
-        File.Delete(Path.Combine(Path.GetFullPath("wwwroot"), "uploads", "news", news.ThumbnailPath));
-
         _repository.Delete(news);
+
+        File.Delete(Path.Combine(Path.GetFullPath("wwwroot"), "uploads", "news", news.ThumbnailPath));
     }
 
     public async Task UpdateAsync(NewsUpdateDTO dto, string username)
@@ -80,7 +80,7 @@ public class NewsService : INewsService
 
         _repository.Update(news);
 
-        if (dto.Thumbnail is not null) File.Delete(Path.Combine(Path.GetFullPath("wwwroot"), "uploads", "news", news.ThumbnailPath));
+        if (dto.Thumbnail is not null) File.Delete(Path.Combine(Path.GetFullPath("wwwroot"), "uploads", "news", oldNews.ThumbnailPath));
     }
 
     public async Task<int> SaveChangesAsync() => await _repository.SaveChangesAsync();
